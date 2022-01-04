@@ -1,0 +1,25 @@
+.contacts {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.phone,
+.email {
+  margin-right: 20px;
+}
+
+.contact-title {
+  font-size: 24px;
+  margin-bottom: 30px;
+}
+
+.contact-schedule {
+  padding-top: 40px;
+}
+
+.contact-page {
+  padding-left: 15px;
+  width: 350px;
+  border: 1px solid rgba(0, 0, 0, 0.63);
+}
